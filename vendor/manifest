@@ -18,12 +18,12 @@
 			"notests": true
 		},
 		{
-			"importpath": "github.com/nicksnyder/go-i18n/tree/master/v2/i18n",
-			"repository": "https://github.com/nicksnyder/go-i18n/tree/master/v2/i18n",
+			"importpath": "github.com/nicksnyder/go-i18n/v2/i18n",
+			"repository": "https://github.com/nicksnyder/go-i18n",
 			"vcs": "git",
 			"revision": "2c24b78755bd85f2b97c45f6f1bf906660b59d56",
 			"branch": "master",
-			"path": "/v2/i18n",
+			"path": "/i18n",
 			"notests": true
 		},
 		{

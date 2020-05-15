@@ -23,7 +23,7 @@
 			"vcs": "git",
 			"revision": "2c24b78755bd85f2b97c45f6f1bf906660b59d56",
 			"branch": "master",
-			"path": "/tree/master/v2/i18n",
+			"path": "/v2/i18n",
 			"notests": true
 		},
 		{
